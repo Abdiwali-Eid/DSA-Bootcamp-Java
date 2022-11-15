@@ -13,7 +13,7 @@ public class ObjectPrint {
         return "ObjectPrint{" +
                 "num=" + num +
                 '}';
-    }
+    } //gadaal ka qor kan 
 
     public static void main(String[] args) {
         ObjectPrint obj = new ObjectPrint(54);
